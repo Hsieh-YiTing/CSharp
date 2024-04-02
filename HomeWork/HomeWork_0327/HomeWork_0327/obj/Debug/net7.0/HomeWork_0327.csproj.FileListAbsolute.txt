@@ -1,0 +1,15 @@
+C:\Users\tnsgr\OneDrive\C#\HomeWork_0327\HomeWork_0327\HomeWork_0327\bin\Debug\net7.0\HomeWork_0327.exe
+C:\Users\tnsgr\OneDrive\C#\HomeWork_0327\HomeWork_0327\HomeWork_0327\bin\Debug\net7.0\HomeWork_0327.deps.json
+C:\Users\tnsgr\OneDrive\C#\HomeWork_0327\HomeWork_0327\HomeWork_0327\bin\Debug\net7.0\HomeWork_0327.runtimeconfig.json
+C:\Users\tnsgr\OneDrive\C#\HomeWork_0327\HomeWork_0327\HomeWork_0327\bin\Debug\net7.0\HomeWork_0327.dll
+C:\Users\tnsgr\OneDrive\C#\HomeWork_0327\HomeWork_0327\HomeWork_0327\bin\Debug\net7.0\HomeWork_0327.pdb
+C:\Users\tnsgr\OneDrive\C#\HomeWork_0327\HomeWork_0327\HomeWork_0327\obj\Debug\net7.0\HomeWork_0327.csproj.AssemblyReference.cache
+C:\Users\tnsgr\OneDrive\C#\HomeWork_0327\HomeWork_0327\HomeWork_0327\obj\Debug\net7.0\HomeWork_0327.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tnsgr\OneDrive\C#\HomeWork_0327\HomeWork_0327\HomeWork_0327\obj\Debug\net7.0\HomeWork_0327.AssemblyInfoInputs.cache
+C:\Users\tnsgr\OneDrive\C#\HomeWork_0327\HomeWork_0327\HomeWork_0327\obj\Debug\net7.0\HomeWork_0327.AssemblyInfo.cs
+C:\Users\tnsgr\OneDrive\C#\HomeWork_0327\HomeWork_0327\HomeWork_0327\obj\Debug\net7.0\HomeWork_0327.csproj.CoreCompileInputs.cache
+C:\Users\tnsgr\OneDrive\C#\HomeWork_0327\HomeWork_0327\HomeWork_0327\obj\Debug\net7.0\HomeWork_0327.dll
+C:\Users\tnsgr\OneDrive\C#\HomeWork_0327\HomeWork_0327\HomeWork_0327\obj\Debug\net7.0\refint\HomeWork_0327.dll
+C:\Users\tnsgr\OneDrive\C#\HomeWork_0327\HomeWork_0327\HomeWork_0327\obj\Debug\net7.0\HomeWork_0327.pdb
+C:\Users\tnsgr\OneDrive\C#\HomeWork_0327\HomeWork_0327\HomeWork_0327\obj\Debug\net7.0\HomeWork_0327.genruntimeconfig.cache
+C:\Users\tnsgr\OneDrive\C#\HomeWork_0327\HomeWork_0327\HomeWork_0327\obj\Debug\net7.0\ref\HomeWork_0327.dll

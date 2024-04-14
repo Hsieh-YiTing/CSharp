@@ -1,0 +1,14 @@
+C:\Users\tnsgr\OneDrive\桌面\class_0410\hw_0410\hw_0410\bin\Debug\net8.0\hw_0410.exe
+C:\Users\tnsgr\OneDrive\桌面\class_0410\hw_0410\hw_0410\bin\Debug\net8.0\hw_0410.deps.json
+C:\Users\tnsgr\OneDrive\桌面\class_0410\hw_0410\hw_0410\bin\Debug\net8.0\hw_0410.runtimeconfig.json
+C:\Users\tnsgr\OneDrive\桌面\class_0410\hw_0410\hw_0410\bin\Debug\net8.0\hw_0410.dll
+C:\Users\tnsgr\OneDrive\桌面\class_0410\hw_0410\hw_0410\bin\Debug\net8.0\hw_0410.pdb
+C:\Users\tnsgr\OneDrive\桌面\class_0410\hw_0410\hw_0410\obj\Debug\net8.0\hw_0410.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tnsgr\OneDrive\桌面\class_0410\hw_0410\hw_0410\obj\Debug\net8.0\hw_0410.AssemblyInfoInputs.cache
+C:\Users\tnsgr\OneDrive\桌面\class_0410\hw_0410\hw_0410\obj\Debug\net8.0\hw_0410.AssemblyInfo.cs
+C:\Users\tnsgr\OneDrive\桌面\class_0410\hw_0410\hw_0410\obj\Debug\net8.0\hw_0410.csproj.CoreCompileInputs.cache
+C:\Users\tnsgr\OneDrive\桌面\class_0410\hw_0410\hw_0410\obj\Debug\net8.0\hw_0410.dll
+C:\Users\tnsgr\OneDrive\桌面\class_0410\hw_0410\hw_0410\obj\Debug\net8.0\refint\hw_0410.dll
+C:\Users\tnsgr\OneDrive\桌面\class_0410\hw_0410\hw_0410\obj\Debug\net8.0\hw_0410.pdb
+C:\Users\tnsgr\OneDrive\桌面\class_0410\hw_0410\hw_0410\obj\Debug\net8.0\hw_0410.genruntimeconfig.cache
+C:\Users\tnsgr\OneDrive\桌面\class_0410\hw_0410\hw_0410\obj\Debug\net8.0\ref\hw_0410.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tnsgr\\OneDrive\\C#\u8AB2\u7A0B\\class_0403\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED3BFB7-BD2B-40C5-8084-930BE8F25CD0}|class_0403\\class_0403.csproj|c:\\users\\tnsgr\\onedrive\\c#\u8AB2\u7A0B\\class_0403\\class_0403\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ED3BFB7-BD2B-40C5-8084-930BE8F25CD0}|class_0403\\class_0403.csproj|solutionrelative:class_0403\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tnsgr\\OneDrive\\C#\u8AB2\u7A0B\\class_0403\\class_0403\\Program.cs",
+              "RelativeDocumentMoniker": "class_0403\\Program.cs",
+              "ToolTip": "C:\\Users\\tnsgr\\OneDrive\\C#\u8AB2\u7A0B\\class_0403\\class_0403\\Program.cs*",
+              "RelativeToolTip": "class_0403\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHUDAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T16:15:59.82Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

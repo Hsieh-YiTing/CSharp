@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\tnsgr\\OneDrive\\\u684C\u9762\\class_0410\\hw_0410\\",
+  "WorkspaceRootPath": "C:\\Users\\tnsgr\\OneDrive\\C#\\hw_0410\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4AD1AC43-4223-4259-B4C7-1F9C9E1089AC}|hw_0410\\hw_0410.csproj|c:\\users\\tnsgr\\onedrive\\\u684C\u9762\\class_0410\\hw_0410\\hw_0410\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4AD1AC43-4223-4259-B4C7-1F9C9E1089AC}|hw_0410\\hw_0410.csproj|c:\\users\\tnsgr\\onedrive\\c#\\hw_0410\\hw_0410\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4AD1AC43-4223-4259-B4C7-1F9C9E1089AC}|hw_0410\\hw_0410.csproj|solutionrelative:hw_0410\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\tnsgr\\OneDrive\\\u684C\u9762\\class_0410\\hw_0410\\hw_0410\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\tnsgr\\OneDrive\\C#\\hw_0410\\hw_0410\\Program.cs",
               "RelativeDocumentMoniker": "hw_0410\\Program.cs",
-              "ToolTip": "C:\\Users\\tnsgr\\OneDrive\\\u684C\u9762\\class_0410\\hw_0410\\hw_0410\\Program.cs",
+              "ToolTip": "C:\\Users\\tnsgr\\OneDrive\\C#\\hw_0410\\hw_0410\\Program.cs",
               "RelativeToolTip": "hw_0410\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAK0BAAAWAAAA",
+              "ViewState": "AQIAALABAAAAAAAAAAAAAK0BAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-12T03:24:07.211Z",
               "EditorCaption": ""
